@@ -7,9 +7,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
+          "title": "GDG DevFest Seattle 2016",
+          "youtubeId": "V8tyLxqzSzc",
+          "text": "See how TensorFlow was in 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -55,10 +55,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -203,24 +199,14 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "SeattleGDG",
+      "url": "https://twitter.com/seattlegdg"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "104304419342230315027",
+      "url": "https://plus.google.com/104304419342230315027"
     },
-    {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
-    }
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
@@ -251,9 +237,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/channel/UCWfeS6EKrOrq1YfzTtZJfug",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "V8tyLxqzSzc" 
   }
 }
