@@ -2,14 +2,14 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Mete Atamel",
-        "title": "Developer Advocate",
+        "name": "Mike Koss",
+        "title": "Firebase Developer",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
+        "country": "United States",
         "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "shortBio": "Mike is a Firebase Developer at Google, currently focused on helping build Firebase for Developers...",
+        "bio": "Mike is not only a Developer at Google, currently focused on helping develope the Firebase Platform. As a long-time Java Script and accomplised developer, he likes to build emerging ecosystems. Prior to Google, he worked at Startups and at Microsoft, building Office, Sharepoint, Outlook, Excel, and services on various web, mobile and cloud platforms. He lives on the Eastside, not too far away from Google Kirkland.",
         "tags": [
             "Cloud",
             "Compute Engine",
@@ -22,17 +22,17 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
+                "link": "https://www.linkedin.com/in/mckoss/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
+                "link": "https://twitter.com/mckoss/"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://github.com/mckoss/"
             }
         ]
     },
