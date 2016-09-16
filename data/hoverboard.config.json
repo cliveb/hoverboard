@@ -149,28 +149,28 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 15,
+        "currency": "$",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
         "soldOut": false
       },
       {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
+        "name": "women-ticket",
+        "price": 20,
+        "currency": "$",
+        "starts": "women-ticket-starts",
+        "ends": "women-ticket-ends",
+        "info": "women-ticket-info",
         "soldOut": true
       },
       {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
+        "name": "general-ticket",
+        "price": 30,
+        "currency": "$",
+        "starts": "general-ticket-starts",
+        "ends": "genera-ticket-ends",
         "soldOut": false
       }
     ]
@@ -179,15 +179,15 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 120,
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 6,
       "caption": "sessions"
     },
     {
@@ -223,13 +223,13 @@
     "apiKey": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 47.648663,
+      "longitude": -122.350502,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 47.648663,
+      "longitude": -122.350502
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
