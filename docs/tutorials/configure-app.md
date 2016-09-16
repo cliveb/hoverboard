@@ -121,6 +121,16 @@ And in navigation
 
 This configs reflects in `toolbar-block.html` and `drawer-block.html`
 
+### Optional steps
+
+Edit event content for your GDG in data folder 
+`blogs.json`
+`partners.json`
+`schedule.json`
+`sessions.json`
+`team.json`
+`tweets.json`
+`videos.json`
 
 # Next steps
 
