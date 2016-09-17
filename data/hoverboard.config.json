@@ -145,7 +145,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://www.eventbrite.com/e/gdg-devfest-seattle-2016-tickets-27350797973",
     "elements": [
       {
         "name": "student-ticket",
@@ -220,7 +220,7 @@
     }
   },
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyBQDUaVHzLdaNqD9umeDtxIKdY0bgRWrEI",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
       "latitude": 47.648663,
