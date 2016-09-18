@@ -9,7 +9,7 @@
         "video": {
           "title": "GDG DevFest Seattle 2016",
           "youtubeId": "V8tyLxqzSzc",
-          "text": "See how TensorFlow was in 2016"
+          "text": "See how it was in 2015"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -191,7 +191,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfgdgsea",
+  "hashtag": "dfsea",
   "social": [
     {
       "name": "twitter",
