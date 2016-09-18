@@ -8,7 +8,7 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG DevFest Seattle 2016",
-          "youtubeId": "V8tyLxqzSzc",
+          "youtubeId": "Rc6kWjMfcEg",
           "text": "See how it was in 2015"
         },
         "hideLogo": true,
@@ -236,6 +236,6 @@
   "videosSessionsUrl": "https://www.youtube.com/channel/UCWfeS6EKrOrq1YfzTtZJfug",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "V8tyLxqzSzc" 
+    "videoId": "Rc6kWjMfcEg" 
   }
 }
