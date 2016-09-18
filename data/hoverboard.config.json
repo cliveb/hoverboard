@@ -153,20 +153,20 @@
         "soldOut": false
       },
       {
-        "name": "women-ticket",
+        "name": "early-ticket",
         "price": 20,
         "currency": "$",
-        "starts": "women-ticket-starts",
-        "ends": "women-ticket-ends",
-        "info": "women-ticket-info",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
         "soldOut": true
       },
       {
-        "name": "general-ticket",
+        "name": "lazy-ticket",
         "price": 30,
         "currency": "$",
-        "starts": "general-ticket-starts",
-        "ends": "genera-ticket-ends",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
