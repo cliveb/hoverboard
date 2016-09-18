@@ -1,8 +1,8 @@
 [
   {
-    "youtubeId": "-UEURYYVCmg",
-    "title": "Polymer vs other libraries",
-    "speakers": "Jakub Škvára",
+    "youtubeId": "V8tyLxqzSzc",
+    "title": "Into to TensorFlow",
+    "speakers": "Wolff Dobson ",
     "thumbnail": "/images/sessions/116.JPG"
   },
   {
@@ -16,12 +16,6 @@
     "title": "Google Cloud Platform End to End: How we built 'Cloud Spin'",
     "speakers": "Mandy Waite",
     "thumbnail": "/images/sessions/110.JPG"
-  },
-  {
-    "youtubeId": "89wvLLc25AY",
-    "title": "How can Android Backup break your app",
-    "speakers": "Mateusz Herych",
-    "thumbnail": "/images/sessions/102.JPG"
   },
   {
     "youtubeId": "3u8864j4g24",
@@ -42,12 +36,6 @@
     "thumbnail": "/images/sessions/101.JPG"
   },
   {
-    "youtubeId": "3zbxUcyiP8Y",
-    "title": "The Cloud Convergence: OpenStack and Kubernetes",
-    "speakers": "Ihor Dvoretskyi",
-    "thumbnail": "/images/sessions/135.JPG"
-  },
-  {
     "youtubeId": "uz4vA21lqoE",
     "title": "Firebase Adventures - Real time platform for your apps",
     "speakers": "Juarez Filho",
@@ -66,40 +54,15 @@
     "thumbnail": "/images/sessions/112.JPG"
   },
   {
-    "youtubeId": "DoUATBQcihI",
-    "title": "Let's play Dart!",
-    "speakers": "Jana Moudrá",
-    "thumbnail": "/images/sessions/115.JPG"
-  },
-  {
     "youtubeId": "euROYVOJYuI",
     "title": "Using GoLang for building micro-service architecture in Google Cloud Platform",
     "speakers": "Valentyn Shybanov",
     "thumbnail": "/images/sessions/106.JPG"
   },
   {
-    "youtubeId": "gHd-0itPpGg",
-    "title": "Build Your Thing In a Weekend with AngularJS 2.0",
-    "speakers": "Semih Yagcioglu",
-    "thumbnail": "/images/sessions/124.JPG"
-  },
-  {
-    "youtubeId": "o04aL3IzmcQ",
-    "title": "[Keynote] Lean Startup with Google",
-    "speakers": "Dawid Ostrowski",
+    "youtubeId": "WkOjj5oi-EM",
+    "title": "[Keynote] Lean Startup Eric Ries",
     "thumbnail": "/images/sessions/125.JPG"
-  },
-  {
-    "youtubeId": "3LQnqJhGQmI",
-    "title": "RxJava for Android",
-    "speakers": "Constantine Mars",
-    "thumbnail": "/images/sessions/133.JPG"
-  },
-  {
-    "youtubeId": "a4InM2VhAvQ",
-    "title": "Power of Android Shell",
-    "speakers": "Roman Mazur",
-    "thumbnail": "/images/sessions/104.JPG"
   },
   {
     "youtubeId": "gQbjjOE2yF4",
@@ -126,34 +89,10 @@
     "thumbnail": "/images/sessions/114.JPG"
   },
   {
-    "youtubeId": "2rT4Us7cFDg",
-    "title": "Hijacking notification actions - lets respond to your messages!",
-    "speakers": "Michał Tajchert",
-    "thumbnail": "/images/sessions/105.JPG"
-  },
-  {
     "youtubeId": "lFpb-LaYDvs",
     "title": "New security model in Marshmallow",
     "speakers": "Roman Herasymenko",
     "thumbnail": "/images/sessions/111.JPG"
-  },
-  {
-    "youtubeId": "V7GCjnfsOCE",
-    "title": "Angular2: Reasoning behind technical decisions",
-    "speakers": "Valentyn Shybanov",
-    "thumbnail": "/images/sessions/107.JPG"
-  },
-  {
-    "youtubeId": "8kXNWOhEAhE",
-    "title": "Fireside Chat",
-    "speakers": "",
-    "thumbnail": "/images/sessions/140.JPG"
-  },
-  {
-    "youtubeId": "SoXb9cXnJhc",
-    "title": "Android TV Development",
-    "speakers": "Alexey Rybakov",
-    "thumbnail": "/images/sessions/119.JPG"
   },
   {
     "youtubeId": "YWaOdwCenZM",
