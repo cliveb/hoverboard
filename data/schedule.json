@@ -1,69 +1,117 @@
-[{
-    "date": "2016-09-09",
-    "dateReadable": "September 9",
-    "tracks": [{
-        "title": "Checkin desk"
-    }, {
-        "title": "CoTU Conference Center"
-    }, {
-        "title": "Session Rooms"
-    }],
-    "timeslots": [{
-        "startTime": "08:30",
-        "endTime": "9:00",
+[
+  {
+    "date": "2016-10-15",
+    "dateReadable": "October 15",
+    "tracks": [
+      {
+        "title": "Main Room"
+      },
+      {
+        "title": "Room 2"
+      },
+      {
+        "title": "Hackathon Room"
+      }
+    ],
+    "timeslots": [
+      {
+        "startTime": "09:00",
+        "endTime": "10:00",
         "sessions": [
-            [132]
+          [1001]
         ]
-    }, {
-        "startTime": "9:30",
+      },
+      {
+        "startTime": "10:00",
         "endTime": "10:15",
         "sessions": [
-            [136]
+          [1005]
         ]
-    }, {
-        "startTime": "10:20",
+      },
+      {
+        "startTime": "10:15",
         "endTime": "11:00",
         "sessions": [
-            [139]
+          [1004]
         ]
-    }, {
+      },
+      {
         "startTime": "11:00",
-        "endTime": "12:00",
+        "endTime": "11:40",
         "sessions": [
-            [103],
-            [120],
-            [109]
+          [1003],
+          [1003],
+          [102]
         ]
-    }, {
-        "startTime": "12:00",
-        "endTime": "12:40",
+      },
+      {
+        "startTime": "11:50",
+        "endTime": "12:30",
         "sessions": [
-            [129],
-            [116],
-            [109]
+          [106],
+          [105],
+          [102]
         ]
-    }, {
-        "startTime": "12:40",
-        "endTime": "13:00",
+      },
+      {
+        "startTime": "12:30",
+        "endTime": "14:00",
         "sessions": [
-            [133]
+          [1002],
+          [1002],
+          [102]
         ]
-    }, {
+      },
+      {
         "startTime": "14:00",
+        "endTime": "14:40",
+        "sessions": [
+          [103],
+          [104],
+          [102]
+        ]
+      },
+      {
+        "startTime": "14:50",
+        "endTime": "15:30",
+        "sessions": [
+          [103],
+          [104],
+          [102]
+        ]
+      },
+      {
+        "startTime": "15:30",
         "endTime": "16:00",
         "sessions": [
-            [101],
-            [118],
-            [107]
+          [103],
+          [104],
+          [102]
         ]
-    }, {
+      },
+      {
         "startTime": "16:00",
-        "endTime": "16:30",
+        "endTime": "16:40",
         "sessions": [
-            [140],
-            [126],
-            [107]
+          [101],
+          [104],
+          [102]
         ]
-    }, ]
-}, 
-}]
+      },
+      {
+        "startTime": "16:50",
+        "endTime": "18:00",
+        "sessions": [
+          [1007]
+        ]
+      },
+      {
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "sessions": [
+          [1006]
+        ]
+      }
+    ]
+  }
+]
