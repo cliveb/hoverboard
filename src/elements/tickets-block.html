@@ -72,7 +72,7 @@
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.data.tickets.elements]]" as="ticket">
           <ticket-element
-            name="[[localize(ticket.name)]]"
+            type="[[localize(ticket.name)]]"
             price="[[ticket.price]]"
             currency="[[ticket.currency]]"
             starts="[[localize(ticket.starts)]]"

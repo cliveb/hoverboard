@@ -69,19 +69,6 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://devfest.gdgseattle.org/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "hoverboard-gdg-x",
-  "languages": [
-    {
-      "name": "English",
-      "key": "en"
-    }
-  ],
   "footerBlocks": [
     {
       "title": "for-visitors",
@@ -101,17 +88,17 @@
         },
         {
           "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "url": "http://www.meetup.com/seattle-gdg/events/125948972/",
           "newTab": true
         },
         {
           "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
+          "url": "http://www.meetup.com/seattle-gdg/events/155658502/",
           "newTab": true
         },
         {
           "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "url": "http://www.meetup.com/seattle-gdg/events/224992988/",
           "newTab": true
         }
       ]
@@ -121,12 +108,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "mailto:gdgseattle@googlemail.com",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "mailto:gdgseattle@googlemail.com",
           "newTab": true
         }
       ]
@@ -135,13 +122,13 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdgseattle@googlemail.com",
+        "url": "mailto:gdgseattle@googlemail.com"
       }
     ]
   },
   "tickets": {
-    "url": "https://www.eventbrite.com/e/gdg-devfest-seattle-2016-tickets-27350797973",
+    "url": "",
     "elements": [
       {
         "name": "student-ticket",
@@ -191,12 +178,12 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfsea",
+  "hashtag": "DevFestSeattle",
   "social": [
     {
       "name": "twitter",
-      "nickname": "SeattleGDG",
-      "url": "https://twitter.com/seattlegdg"
+      "nickname": "gdgseattle",
+      "url": "https://twitter.com/gdgseattle"
     },
     {
       "name": "gplus",
