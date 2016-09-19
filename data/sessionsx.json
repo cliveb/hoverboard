@@ -1,0 +1,98 @@
+{
+  "1001": {
+    "id": 101,
+    "title": "Registration & morning Coffee",
+    "description": "Get your badge, coffee, and then enjoy talking with great people",
+    "tags": ["general"]
+  },
+  "1002": {
+    "id": 102,
+    "title": "Lunch",
+    "description": "Lunch break",
+    "tags": ["general"]
+  },
+  "1003": {
+    "id": 103,
+    "title": "After party & Networking",
+    "description": "The after party is a great place to have some fun and meet new people.<br/><br/><b>Location</b>: TBA<br/><br/>Don't forget to bring your badge.",
+      "title": "TBA"
+    "tags": ["general"]
+  },
+ },
+  "1004": {
+    "id": 1002,
+    "title": "DevFest Seattle Keynote",
+    "description": "Keynote presentation",
+    "tags": ["general"]
+  },
+  "1007": {
+    "id": 1012,
+    "title": "Firebase talk",
+    "description": "",
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": 
+    ["general"]
+    ["firebase"]
+  },
+  "1008": {
+    "id": 1003,
+    "title": "App Engine talk",
+    "description": "",
+    "speakers": [1],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [,
+      "cloud",
+      "general"
+    ]
+  },
+  "1009": {
+    "id": 1009,
+    "title": "Machine Learning / TensorFlow",
+    "description": "",
+    "speakers": [],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "android",
+      "cloud"
+    ]
+  },
+  "103": {
+    "id": 1010,
+    "title": "Develop and Design for VR",
+    "description": "",
+    "speakers": [3],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["android", "web", "games"]
+  },
+  "104": {
+    "id": 1011,
+    "title": "Andriod Talks",
+    "description": "",
+    "speakers": [2],
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": ["android", "ux"]
+  },
+  "105": {
+    "id": 1012,
+    "title": "Code Labs (concurrent)",
+    "description": "",
+    "speakers": [4],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["android"]
+  },
+  "1006": {
+    "id": 1006,
+    "title": "Code Labs (concurrent),
+    "description": "",
+    "speakers": [5],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["cloud]
+  }
+}

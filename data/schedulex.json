@@ -18,47 +18,41 @@
         "startTime": "08:30",
         "endTime": "09:00",
         "sessions": [
-          [1001]
+          [101]
         ]
       },
       {
         "startTime": "09:00",
         "endTime": "09:30",
         "sessions": [
-          [1005]
+          [1002]
         ]
       },
       {
         "startTime": "09:30",
         "endTime": "10:20",
         "sessions": [
-          [1004]
+          [1003]
         ]
       },
       {
         "startTime": "10:20",
-        "endTime": "11:00",
+        "endTime": "11:30",
         "sessions": [
-          [1003],
-          [1003],
-          [102]
+          [1004]
         ]
       },
       {
-        "startTime": "11:00",
+        "startTime": "11:30",
         "endTime": "12:00",
         "sessions": [
-          [106],
-          [105],
-          [102]
+          [1005]
         ]
       },
       {
         "startTime": "12:00",
         "endTime": "12:40",
         "sessions": [
-          [1002],
-          [1002],
           [102]
         ]
       },
@@ -66,50 +60,37 @@
         "startTime": "12:40",
         "endTime": "13:00",
         "sessions": [
-          [103],
-          [104],
-          [102]
+          [1007]
         ]
       },
       {
         "startTime": "13:00",
         "endTime": "14:00",
         "sessions": [
-          [103],
-          [104],
-          [102]
+          [1008]
         ]
       },
       {
         "startTime": "14:00",
         "endTime": "16:00",
         "sessions": [
-          [103],
-          [104],
-          [102]
+          [1009],
+          [1010],
+          [1011]
         ]
       },
       {
         "startTime": "16:00",
         "endTime": "16:30",
         "sessions": [
-          [101],
-          [104],
-          [102]
+          [1012]
         ]
       },
       {
         "startTime": "16:30",
-        "endTime": "17:00",
+        "endTime": "18:00",
         "sessions": [
-          [1007]
-        ]
-      },
-      {
-        "startTime": "17:00",
-        "endTime": "18:30",
-        "sessions": [
-          [1006]
+          [103]
         ]
       }
     ]
