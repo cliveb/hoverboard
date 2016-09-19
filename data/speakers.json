@@ -1,131 +1,171 @@
 {
   "1": {
     "id": 1,
-    "featured": false,
-    "name": "Michael Prentice",
-    "title": "Founder, GDG Space Coast",
-    "company": "DevIntent",
-    "country": " United States",
-    "photoUrl": "/images/people/michael_prentice.jpg",
-    "bio": "Michael Prentice is a consultant on Angular, Material Design, software architecture, and agile project management. He is the founder of GDG Space Coast and a GDG NA South Region Mentor. He is a team collaborator on Angular Material and GDG-X. He is currently working on his own company, DevIntent.",
+    "featured": true,
+    "name": "Murat Yener",
+    "title": "GDE",
+    "company": "Intel",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "California, United States",
+    "photoUrl": "/images/people/murat_yener.jpg",
+    "shortBio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on...",
+    "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx..",
     "tags": [
-      "angular", "material-design", "firebase", "entrepreneurship", "web", "community"
+      "andriod", "java", "performance", "UI/UX", "bets practises", "testing", "dev life cycle"
     ],
+    "badges": [
+
+        ],
     "socials": [
       {
-        "name": "Google+",
         "icon": "gplus",
-        "link": "https://plus.google.com/+MichaelPrentice/"
+        "name": "Google+",
+        "link": "https://plus.google.com/+MuratYener/"
       },
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/splaktar"
+        "name": "Twitter",
+        "link": "https://twitter.com/yenerm"
       },
       {
-        "name": "GitHub",
         "icon": "github",
-        "link": "https://github.com/splaktar"
+        "name": "GitHub",
+        "link": "https://github.com/yenerm"
       }
     ]
   },
   "2": {
     "id": 2,
     "featured": true,
-    "name": "Mark Murphy",
-    "title": "Founder, CommonsWare & Author of <a href='https://commonsware.com/Android'>The Busy Coder’s Guide to Android Development</a>",
-    "company": "CommonsWare",
-    "country": " United States",
-    "photoUrl": "/images/people/mark_murphy.jpg",
-    "bio": "Mark Murphy is the founder of CommonsWare and the author of <a href='https://commonsware.com/Android'>The Busy Coder’s Guide to Android Development</a>.  He is active in supporting the Android developer community, from <a href='http://stackoverflow.com/users/115145/commonsware'>answering questions on Stack Overflow</a> to <a href='http://github.com/commonsguy'>publishing sample code and reusable components as open source</a>.<br><br>A three-time entrepreneur, his experience ranges from consulting on open source and collaborative development for the Fortune 500 to application development on a myriad of platforms. A polished speaker, Mr. Murphy has delivered conference presentations and training sessions on a wide array of topics internationally.",
+    "name": "Marcos Paulo Damasceno",
+    "title": "GDE",
+    "company": "Mirego",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "Montreal, Canada",
+    "photoUrl": "/images/people/marcos_paulo.jpg",
+    "shortBio": "My subjects usually involve UI, Design and Animations. Here are some links for some of my talks:...",
+    "bio": "I have been giving talks a bit everywhere since 2014. I did presentations at Droidcon NYC, Droidcon London and I organized Droidcon Montreal. I also regularly give talks at the local GDG which I help organize. My subjects usually involve UI, Design and Animations. Here are some links for some of my talks:.",
     "tags": [
-      "android", "ux", "entrepreneurship"
+      "android", 
+      "ux",
+      "entrepreneurship"
     ],
+     "badges": [
+
+        ],
     "socials": [
       {
-        "name": "Blog",
         "icon": "website",
-        "link": "https://commonsware.com/blog/"
+        "name": "Blog",
+        "link": "https://skillsmatter.com/skillscasts/6724-material-design-adaptative-ui"
       },
       {
-        "name": "Twitter",
+        "icon": "youtube",
+        "name": "YouTube",
+        "link": "https://www.youtube.com/watch?v=SwcJu6fnwjo"
+      },
+      {
+        "icon": "youtube",
+        "name": "YouTube",
+        "link": "https://www.youtube.com/watch?v=1YjB1uUfxgE"
+      },
+       {
         "icon": "twitter",
-        "link": "https://twitter.com/commonsguy"
-      },
-      {
-        "name": "GitHub",
-        "icon": "github",
-        "link": "https://github.com/commonsguy"
+        "name": "Twitter",
+        "link": "https://twitter.com/marcospaulosd"
       }
     ]
   },
   "3": {
     "id": 3,
     "featured": true,
-    "name": "Alyssa Nicoll",
-    "title": "Google Developer Expert & Developer at <a href='https://weaveup.com/'>WeaveUp</a>",
-    "company": "WeaveUp",
-    "country": " United States",
-    "photoUrl": "/images/people/alyssa_nicoll.jpg",
-    "bio": "I am an energetic, über passionate developer. I am a Google Developer Expert, Web Dev at WeaveUp and I have some Front-End and Angular courses on Code School. I love to learn new things and then share them with others. I Scuba Dive and have a toothless dog named 'Gummy'. My name is Alyssa, come talk sometime.",
-    "tags": ["community", "web", "angular"],
+    "name": "Macy Kuang",
+    "title": "GDE",
+    "company": "Miaomiao Games",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "Montreal, Canada",
+    "photoUrl": "/images/people/macy_kuang.jpg",
+    "shortBio": "Macy Kuang is the the founder of Miaomiao Games Corp(miaomiaogames.com), Google Developer Expert...",
+    "bio": "Macy Kuang is the the founder of Miaomiao Games Corp(miaomiaogames.com), Google Developer Expert for Wearable and the organizer of the AndroidTO conference(androidto.com). She was interviewed at Coffee with a Googler during Google I/O 2015. Macy spoke at many major conferences and events, TEDx Richmond Hill, FITC, Contagious New York, Google DevFest Waterloo, Google DevFest LA and more....",
+    "tags": ["android", "wearables", "game developer", "VR"],
+     "badges": [
+
+        ],
     "socials": [
       {
-        "name": "Blog",
         "icon": "website",
-        "link": "http://alyssa.io/"
+        "name": "Blog",
+        "link": "http://http://macykuang.com/"
       },
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/AlyssaNicoll"
+        "name": "Twitter",
+        "link": "https://twitter.com/macykuang"
       }
     ]
   },
   "4": {
     "id": 4,
     "featured": true,
-    "name": "Etienne Caron",
-    "title": "Mobile Dev Lead & Google Developer Expert",
-    "company": "Shopify",
-    "country": " United States",
-    "photoUrl": "/images/people/etienne_caron.jpg",
-    "bio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify, and is part of Google's Developer Expert program.<br><br>Etienne got his start in programming in the mid-'80s obsessing over C64 demos, and went on to organize the NAID 95/96 demoparties. 3D animation, procedural content generation and VR are some of his hobbies, and he loves to introduce other developers to this fascinating field. He also regularly volunteers his time towards mentoring startups, developers and students in the mobile space. As part of the Montreal Android GDG, he organises meet-ups, hackathons, and gives regular talks on Android and VR-related subjects.<br><br>Previously, Etienne worked on projects ranging from high-availability stock trading software platforms, all the way to large scale municipal bike sharing systems (London’s cycle Hire amongst others). He lives in Montreal with his wife and daughter, and speaks French and English fluently.",
-    "tags": ["tango", "android"],
+    "name": "Terrence Ryan",
+    "title": "Developer Advocate for the Google Cloud Platform",
+    "company": "Google",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "Seattle, United States",
+    "photoUrl": "/images/people/terrence_ryan.jpg",
+    "shortBio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of ...",
+    "bio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back. Before working for technology shops like Google and Adobe he worked in roles that combined development with system administration at the Wharton School of Business. He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology. ",
+    "tags": [
+        "devops", 
+        "cloud"
+    ],
+     "badges": [
+
+        ],
     "socials": [
       {
-        "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/kanawish"
+        "name": "Twitter",
+        "link": "https://twitter.com/tpryan"
       },
       {
-        "name": "GitHub",
         "icon": "github",
-        "link": "https://github.com/kanawish"
+        "name": "GitHub",
+        "link": "https://github.com/tpryan"
       }
     ]
   },
   "5": {
     "id": 5,
     "featured": true,
-    "name": "Juniper Belmont",
-    "title": "Developer Advocate",
-    "company": "Vaadin",
-    "country": " United States",
-    "photoUrl": "/images/people/juniper_belmont.jpg",
-    "bio": "June is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont.",
-    "tags": ["pwas", "web"],
-    "socials": [
-      {
-        "name": "Twitter",
+    "name": "Martin Omander",
+    "title": "Program Manager",
+    "company": "Google",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "San Francisco, United States",
+    "photoUrl": "/images/people/martin_omander.jpg",
+    "shortBio": "Martin combines business and people skills with deep technical knowledge to lead GDG...",
+    "bio": "Martin combines business and people skills with deep technical knowledge to lead GDG developer advocacy programs in North America. Speciaites: Search advertising, payment processing.",
+    "tags": [
+    "web", 
+    "web systems", 
+    "firebase"
+    ],
+     "badges": [
+
+        ],
+     "socials": [
+        {
         "icon": "twitter",
-        "link": "https://twitter.com/juniperbelmont"
-      },
-      {
-        "name": "GitHub",
+        "name": "Twitter",
+        "link": "https://twitter.com/jmartinomander"
+       },
+       {
         "icon": "github",
-        "link": "https://github.com/juniperbelmont"
+        "name": "GitHub",
+        "link": "https://github.com/martinomander"
       }
     ]
   }
+  
 }
