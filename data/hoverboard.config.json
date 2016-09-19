@@ -150,7 +150,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 30,
+        "price": 50,
         "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
