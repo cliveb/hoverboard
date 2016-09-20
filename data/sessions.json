@@ -95,8 +95,8 @@
   },
   "105": {
     "id": 105,
-    "title": "Developing Apps for Daydream and Tango",
-    "description": "Starting an App with a Virtual or Augmented reality component is a bit daunting for most. When starting out, frameworks like Unity3D or Unreal Engine simplify a great many things.<br><br>But, from an Android developer perspective, you need to forget all about the nice APIs and libraries you're used to. You'll need to shoehorn your business logic in frameworks that are designed to build games first, not apps -- not a great proposition.<br><br>Let's explore the path less traveled together! In this session, we'll see how you can build VR and AR applications, in Java and Android Studio, thanks to Google's Daydream and Tango Java SDKs, plus a few helpful 3D graphics libraries.",
+    "title": "Android talks ",
+    "description": "Android talks" ,
     "speakers": [4],
     "language": "English",
     "complexity": "Intermediate",
@@ -104,8 +104,8 @@
   },
   "106": {
     "id": 106,
-    "title": "Why (not) build Progressive Web Apps?",
-    "description": "Progressive Web Apps (PWAs) are the new big thing in web development, but it’s a mistake to simply endorse or reject them. More than a set of technologies, PWAs are about reframing how we build apps for the web and mobile. They’re about building speed and security and responsiveness right into the app instead of relying on fast devices and connections. They’re about making web apps do everything native apps can do without rewriting your entire codebase for different platforms.<br><br>In this talk you’ll learn how to build progressive web apps and decide why you might or might not want to.",
+    "title": "Code Labs (concurrent)",
+    "description": "Code Labs (concurrent)",
     "speakers": [5],
     "language": "English",
     "complexity": "Intermediate",
