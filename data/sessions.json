@@ -77,8 +77,8 @@
   },
   "103": {
     "id": 103,
-    "title": " Machine Learning and TensorFlow talk",
-    "description": "Machine Learning and TensorFlow talk",
+    "title": " Machine Learning / TensorFlow talk",
+    "description": "Machine Learning / TensorFlow talk",
     "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
