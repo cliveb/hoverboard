@@ -67,7 +67,7 @@
     "id": 102,
     "title": "App Engine talk",
     "description": "App Engine talk.",
-    "speakers": [],
+    "speakers": [5],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
@@ -79,7 +79,7 @@
     "id": 103,
     "title": " Machine Learning / TensorFlow talk",
     "description": "Machine Learning / TensorFlow talk",
-    "speakers": [3],
+    "speakers": [4],
     "language": "English",
     "complexity": "Beginner",
     "tags": ["community", "web"]
@@ -88,7 +88,7 @@
     "id": 104,
     "title": "Develop & Design for VR talk",
     "description": "Develop & Design for VR talk.",
-    "speakers": [2],
+    "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
     "tags": ["android", "ux"]
@@ -106,7 +106,7 @@
     "id": 106,
     "title": "Code Labs (concurrent)",
     "description": "Code Labs (concurrent)",
-    "speakers": [5],
+    "speakers": [],
     "language": "English",
     "complexity": "Intermediate",
     "tags": ["pwas", "web", "polymer"]
