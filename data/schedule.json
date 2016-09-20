@@ -7,10 +7,10 @@
         "title": "Main Room"
       },
       {
-        "title": "Room 2"
+        "title": "Codelabs Room"
       },
       {
-        "title": "Hackathon Room"
+        "title": "Hackers Room"
       }
     ],
     "timeslots": [
@@ -25,28 +25,28 @@
         "startTime": "09:00",
         "endTime": "09:30",
         "sessions": [
-          [1005]
+          [1004]
         ]
       },
       {
         "startTime": "09:30",
         "endTime": "10:20",
         "sessions": [
-          [1004]
+          [101]
         ]
       },
       {
         "startTime": "10:20",
         "endTime": "11:00",
         "sessions": [
-          [1003]
+          [102]
         ]
       },
       {
         "startTime": "11:00",
         "endTime": "12:00",
         "sessions": [
-          [106]
+          [103]
         ]
       },
       {
@@ -60,23 +60,25 @@
         "startTime": "12:40",
         "endTime": "13:00",
         "sessions": [
-          [103]
+          [104]
         ]
       },
       {
         "startTime": "13:00",
         "endTime": "14:00",
         "sessions": [
-          [104]
+          [105],
+          [105],
+          [105]
         ]
       },
       {
         "startTime": "14:00",
         "endTime": "16:00",
         "sessions": [
-          [105],
-          [105],
-          [105]
+          [106],
+          [106],
+          [106]
         ]
       },
       {
