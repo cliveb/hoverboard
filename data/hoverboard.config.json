@@ -131,29 +131,12 @@
     "url": "",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 15,
-        "currency": "$",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 20,
+        "price": 30,
         "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 50,
-        "currency": "$",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
@@ -162,7 +145,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 120,
+      "counter": 150,
       "caption": "attendees"
     },
     {
@@ -170,11 +153,11 @@
       "caption": "days"
     },
     {
-      "counter": 6,
+      "counter": 5,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 4,
       "caption": "tracks"
     }
   ],
@@ -193,7 +176,7 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "http://www.meetup.com/seattle-gdg/photos/26595806/#444809045",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
