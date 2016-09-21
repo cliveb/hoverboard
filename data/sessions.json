@@ -1,4 +1,4 @@
-{
+ {
   "1001": {
     "id": 1001,
     "title": "Registration & morning Coffee",
@@ -52,7 +52,7 @@
     "id": 101,
     "title": "Firebase talk",
     "description": "Firebase talk ",
-    "speakers": [1],
+    "speakers": [5],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
@@ -95,13 +95,31 @@
     "id": 105,
     "title": "Android talks ",
     "description": "Android talks" ,
+    "speakers": [1],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["android", "ux"]
+  },
+    "106": {
+    "id": 106,
+    "title": "Android talks ",
+    "description": "Android talks" ,
     "speakers": [2],
     "language": "English",
     "complexity": "Intermediate",
     "tags": ["android", "ux"]
   },
-  "106": {
-    "id": 106,
+    "107": {
+    "id": 107,
+    "title": "Android talks ",
+    "description": "Android talks" ,
+    "speakers": [3],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": ["android", "ux"]
+  },
+  "108": {
+    "id": 108,
     "title": "Code Labs (concurrent)",
     "description": "Code Labs (concurrent)",
     "speakers": [],
