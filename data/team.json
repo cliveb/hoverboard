@@ -67,18 +67,6 @@
           }
         ],
         "title": "Organizer and Operations"
-      },
-      {
-        "name": "Laurie White",
-        "photoUrl": "/images/people/laurie_white.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+LaurieWhitePhd",
-            "name": "Google+"
-          }
-        ],
-        "title": "Google Sponsor"
       }
     ]
   }
