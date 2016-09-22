@@ -6,98 +6,39 @@
     "thumbnail": "/images/sessions/116.JPG"
   },
   {
-    "youtubeId": "BZ-uR8LQRkA",
-    "title": "Scalable Microservices with gRPC, Kubernetes, and Containers",
-    "speakers": "Mandy Waite",
-    "thumbnail": "/images/sessions/109.JPG"
-  },
-  {
-    "youtubeId": "n-H6jYnL32U",
-    "title": "Google Cloud Platform End to End: How we built 'Cloud Spin'",
-    "speakers": "Mandy Waite",
+    "youtubeId": "wCnisX0Nhd4",
+    "title": "Setting up for Android Development",
+    "speakers": "Ana Redmond, Margaret Maynard-Reid",
     "thumbnail": "/images/sessions/110.JPG"
   },
   {
-    "youtubeId": "3u8864j4g24",
-    "title": "Material Design. Custom Branding",
-    "speakers": "Alex Pazhyn",
-    "thumbnail": "/images/sessions/113.JPG"
-  },
-  {
-    "youtubeId": "szLFi1aO398",
-    "title": "Service Worker - Native Apps Experience For The Web",
-    "speakers": "Viktor Zozuliak",
+    "youtubeId": "TOcu9-_kvNI",
+    "title": "Getting a GO application working on App Engine",
+    "speakers": "Francesc Campoy",
     "thumbnail": "/images/sessions/122.JPG"
   },
   {
-    "youtubeId": "nFZxAIi8n7I",
-    "title": "Material Design on Custom Views",
-    "speakers": "Said Tahsin Dane",
-    "thumbnail": "/images/sessions/101.JPG"
-  },
-  {
-    "youtubeId": "uz4vA21lqoE",
-    "title": "Firebase Adventures - Real time platform for your apps",
-    "speakers": "Juarez Filho",
+    "youtubeId": "5OmM-FVfHnY",
+    "title": "Introduction to Firebase",
+    "speakers": "Mike Koss",
     "thumbnail": "/images/sessions/120.JPG"
   },
   {
-    "youtubeId": "GYwvQ0YAPo4",
-    "title": "Data Binding. Next big thing?",
-    "speakers": "Anton Minashkin",
-    "thumbnail": "/images/sessions/134.JPG"
-  },
-  {
-    "youtubeId": "GbTe0BTuNaU",
-    "title": "Mastering the NDK with Android Studio 1.3+ and the gradle-experimental plugin",
-    "speakers": "Hallade Xavier",
-    "thumbnail": "/images/sessions/112.JPG"
-  },
-  {
-    "youtubeId": "euROYVOJYuI",
-    "title": "Using GoLang for building micro-service architecture in Google Cloud Platform",
-    "speakers": "Valentyn Shybanov",
-    "thumbnail": "/images/sessions/106.JPG"
-  },
-  {
     "youtubeId": "WkOjj5oi-EM",
-    "title": "[Keynote] Lean Startup Eric Ries",
+    "title": "[Entrepreneurial] Lean Startup",
+    "speakers": "Eric Ries",
     "thumbnail": "/images/sessions/125.JPG"
   },
+ {
+    "youtubeId": "RdwZXw4B_xM",
+    "title": "Learning to Write Go",
+    "speakers:" "Jeffrey Hulten",
+    "thumbnail": "/images/sessions/126.JPG"
+  },  
   {
-    "youtubeId": "gQbjjOE2yF4",
-    "title": "Planning Android Screens",
-    "speakers": "Dmytro Danylyk",
-    "thumbnail": "/images/sessions/103.JPG"
-  },
-  {
-    "youtubeId": "Oazl4fx-X68",
-    "title": "V8 under the hood",
-    "speakers": "Dima Maleev",
-    "thumbnail": "/images/sessions/108.JPG"
-  },
-  {
-    "youtubeId": "tEUmmZDwHDg",
-    "title": "Bluetooth Low Energy and iBeacon development for Android",
-    "speakers": "Kseniia Shumelchyk",
-    "thumbnail": "/images/sessions/117.JPG"
-  },
-  {
-    "youtubeId": "b-4upgkYdZo",
-    "title": "Continuous Delivery with Ease",
-    "speakers": "Maciej Górski",
-    "thumbnail": "/images/sessions/114.JPG"
-  },
-  {
-    "youtubeId": "lFpb-LaYDvs",
-    "title": "New security model in Marshmallow",
-    "speakers": "Roman Herasymenko",
-    "thumbnail": "/images/sessions/111.JPG"
-  },
-  {
-    "youtubeId": "YWaOdwCenZM",
-    "title": "Google WebRTC on Mobile",
-    "speakers": "Buşra Deniz",
+    "youtubeId": "KSeUhK1IwC0",
+    "title": "Women Techmakers: Community Tech-Talks ",
+    "speakers": "Stani Meredith, Emiko Hori, Abha Bhatia, Hasmik Kalantarian, Margaret Maynard-Reid",
     "thumbnail": "/images/sessions/123.JPG"
   }
 ]
