@@ -166,6 +166,67 @@
         "link": "https://github.com/martinomander"
       }
     ]
+  },
+ "6": {
+    "id": 6,
+    "featured": true,
+    "name": "Mike Koss",
+    "title": "Software Engineer for Google Firebase",
+    "company": "Google",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "Seattle, United States",
+    "photoUrl": "/images/people/mike_koss.jpg",
+    "shortBio": "Mike Koss is a Software Engineer for Google Firebase Cloud Platform. He has extensive experinces ...",
+    "bio": "Mike Koss is a Software Engineer for Google Firebase Cloud Platform. He has extensive experinces developing software experiences that make a difference. Before Google Mike worked at startups, earlier at Microsoft. Mike was also founder of StartPad an early Seattle inclubator a founder of GDG Seattle.",
+    "tags": [
+        "devops", 
+        "cloud"
+    ],
+     "badges": [
+
+        ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mckoss"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/mckoss"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Margaret Maynard-Reid",
+    "title": "Android Developer for Microsoft Research (Contract)",
+    "company": "Google",
+    "companyLogo": "/images/logos/gdg-lviv.svg",
+    "country": "Seattle, United States",
+    "photoUrl": "/images/people/margaret_maynardreid.jpg",
+    "shortBio": "Margaret Maynard­Reid is an Android Developer currently building apps that showcase how...",
+    "bio": "Margaret Maynard­Reid is an Android Developer currently building apps that showcase how we can leverage machine learning. She has taught as an instructor at the University of Washington Android Application Development Certificate Program. For the past few years she developed Android Apps for startups and published her own. She is an organizer and the Women Techmakers lead of GDG (Google Developer Group) Seattle. She is deeply engaged with the Android community: writing blogs, speaking at conferences, organizing meetups, DevFests and Android Study Jams. Prior to her developer career, she led large scale programs at Microsoft, HP and P&G.",
+    "tags": [
+        "android", 
+        "machine learning"
+    ],
+     "badges": [
+
+        ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mckoss"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/mckoss"
+      }
+    ]
   }
-  
 }

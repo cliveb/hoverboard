@@ -3,8 +3,8 @@
     "title": "template-creator",
     "logos": [
       {
-        "name": "GDG Lviv",
-        "url": "https://developers.google.com/",
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg",
         "width": 170
       }
@@ -15,13 +15,28 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
+        "url": "https://developers.google.com/",
         "logoUrl": "../images/logos/gdg-lviv.svg"
       },
-      {
+       {
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg"
+      },
+      {
+        "name": "General Assembly",
+        "url": "https://ga.co/",
+        "logoUrl": "../images/logos/general-assembly.jpg"
+      },
+       {
+        "name": "OfferUp",
+        "url": "https://www.offerupnow.com/",
+        "logoUrl": "../images/logos/offerup-logo.jpg"
+      },
+       {
+        "name": "Google",
+        "url": "https://www.womenwhocode.com/",
+        "logoUrl": "../images/logos/women-who-code.jpg"
       }
     ]
   }

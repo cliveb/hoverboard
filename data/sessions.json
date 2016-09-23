@@ -21,6 +21,7 @@
     "id": 1004,
     "title": "DevFest Seattle Keynote",
     "description": "Keynote presentation",
+    "speakers": [5],
     "tags": ["general"]
   },
   "1005": {
@@ -52,7 +53,7 @@
     "id": 101,
     "title": "Firebase talk",
     "description": "Firebase talk ",
-    "speakers": [5],
+    "speakers": [6],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
@@ -65,7 +66,7 @@
     "id": 102,
     "title": "App Engine talk",
     "description": "App Engine talk.",
-    "speakers": [5],
+    "speakers": [4],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
@@ -77,7 +78,7 @@
     "id": 103,
     "title": " Machine Learning / TensorFlow talk",
     "description": "Machine Learning / TensorFlow talk",
-    "speakers": [4],
+    "speakers": [7],
     "language": "English",
     "complexity": "Beginner",
     "tags": ["cloud", "web"]
