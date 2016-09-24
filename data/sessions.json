@@ -20,7 +20,7 @@
   "1004": {
     "id": 1004,
     "title": "DevFest Seattle Keynote",
-    "description": "Keynote presentation",
+    "description": "How I became a better dad using Firebase",
     "speakers": [5],
     "tags": ["general"]
   },
@@ -51,32 +51,33 @@
   },
   "101": {
     "id": 101,
-    "title": "Firebase talk",
-    "description": "Firebase talk ",
+    "title": "Cross-platform App Development with Firebase",
+    "description": "The Firebase JavaScript SDK can be used for more than just web apps, since it supports running in Node.js, ReactNative, and Cordova. In this talk, you'll learn how to design and structure a Firebase application that can be re-purposed to multiple platforms (web, server, and mobile clients). We'll walk through the development of an application data model and schema for a sample app including how you can test it in a platform-independent way. We will then show how to package the UI for the app to run in multiple platform environments.",
     "speakers": [6],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "firebase",
-      "polymer",
-      "web"
+      "web",
+      "server",
+      "mobile"
     ]
   },
   "102": {
     "id": 102,
-    "title": "App Engine talk",
-    "description": "App Engine talk.",
+    "title": "Serving 30,000,000 Requests an Hour in the Cloud",
+    "description": "You've written an application and now the worst thing that can happen to you has come about - People are using it! You now have load spikes to deal with. You can scale up to deal with the excess traffic, but what do you do when your load is variable? How do you do that, and stay on budget? This session is a case study on getting an App Engine app to scale to serve 30,000,000 requests an hour. It will take you through the architecture, the code changes and the technology trade offs to get to that level of traffic.",
     "speakers": [4],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
       "cloud",
-      "web"
+      "app engine"
     ]
   },
   "103": {
     "id": 103,
-    "title": " Machine Learning / TensorFlow talk",
+    "title": "Machine Learning / TensorFlow",
     "description": "Machine Learning / TensorFlow talk",
     "speakers": [7],
     "language": "English",
@@ -85,26 +86,26 @@
   },
   "104": {
     "id": 104,
-    "title": "Develop & Design for VR talk",
-    "description": "Develop & Design for VR talk.",
+    "title": "Develop & Design for VR",
+    "description": "Develop and design for VR can be easy and challenging at the same time. In this talk, we will talk about what kind of VR apps are out there, how are they being made and what are the challenges. We will go through the agency world into the product word. By going throw the UX challenges and the current monetization strategies for VR out there.",
     "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["android", "ux", "VR"]
+    "tags": ["vr"]
   },
   "105": {
     "id": 105,
-    "title": "Android talks ",
-    "description": "Android talks" ,
+    "title": "OpenJDK for the a'N'droidlings",
+    "description": "The day has come, finally with version N, Android moved to OpenJDK from the old rusty 'Harmony' based friend. With the move to OpenJDK finally aNdroid finally has access to many new language features lambdas, streams, default methods on interfaces and many more. You have listened all those features in Java talks for years, this time come and watch how the new language features and invoke dynamics will change your aNdroid world. Many Android developers has been listening or worst staying away the new Java features for years. Whether they have heard about them or not, android developers are lacking experience on all those not so new language features. This talk will focus on the new-existing language features which will be introduced by version N (or sometime in future) in the most simplest but effective and hands-on way.",
     "speakers": [1],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["android", "ux"]
+    "tags": ["android"]
   },
     "106": {
     "id": 106,
-    "title": "Android talks ",
-    "description": "Android talks" ,
+    "title": "Animations To Guide Us All",
+    "description": "In this talk we're going deep in Activity Transitions, I'm gonna show common problems that make developers give up of it and what are the best practices. Also, we'll talk about the best practices, the APIs and the advantages of implementing in your app.",
     "speakers": [2],
     "language": "English",
     "complexity": "Intermediate",
@@ -117,7 +118,7 @@
     "speakers": [3],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["android", "ux"]
+    "tags": ["android"]
   },
   "108": {
     "id": 108,
