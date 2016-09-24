@@ -176,8 +176,8 @@
     "companyLogo": "/images/logos/gdg-lviv.svg",
     "country": "Seattle, United States",
     "photoUrl": "/images/people/mike_koss.jpg",
-    "shortBio": "Mike Koss is a Software Engineer for Google Firebase Cloud Platform. He has extensive experinces ...",
-    "bio": "Mike Koss is a Software Engineer for Google Firebase Cloud Platform. He has extensive experinces developing software experiences that make a difference. Before Google Mike worked at startups, earlier at Microsoft. Mike was also founder of StartPad an early Seattle inclubator a founder of GDG Seattle.",
+    "shortBio": "Mike Koss is a Software Engineer for Google Firebase. He has extensive experinces ...",
+    "bio": "Mike was an early employee at Microsoft, working on the original Excel, Outlook, and Sharepoint teams. He worked at a series of Seattle-area startups ranging from social networking, developer platforms, and Bitcoin services. He is now an engineer working in the Firebase team at Google, whose work includes development of the JavaScript SDK and the open source Firebase Bolt rules language compiler. (He was also the co-founder of the Seattle GDG meetup group!)",
     "tags": [
         "devops", 
         "cloud"
@@ -220,13 +220,18 @@
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/mckoss"
+        "link": "https://twitter.com/margaretmz"
       },
       {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/mckoss"
-      }
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+MargaretMaynardReid"
+      },
+      {
+            "icon": "website",
+            "link": "http://margaretmz.github.io/",
+            "name": "Blog"
+          }
     ]
   }
 }
