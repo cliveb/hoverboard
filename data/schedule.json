@@ -4,7 +4,7 @@
     "dateReadable": "October 15",
     "tracks": [
       {
-        "title": "Main Room"
+        "title": "Center of the Universe"
       },
       {
         "title": "Codelabs Room"
@@ -58,31 +58,25 @@
       },
       {
         "startTime": "12:40",
-        "endTime": "13:00",
+        "endTime": "13:05",
         "sessions": [
           [104]
         ]
       },
       {
-        "startTime": "13:00",
-        "endTime": "13:20",
+        "startTime": "13:05",
+        "endTime": "13:30",
         "sessions": [
           [105]
         ]
       },
         {
-        "startTime": "13:20",
-        "endTime": "13:40",
+        "startTime": "13:30",
+        "endTime": "14:00",
         "sessions": [
           [106]
         ]
-      },  {
-        "startTime": "13:40",
-        "endTime": "14:00",
-        "sessions": [
-          [107]
-        ]
-      },
+      }, 
       {
         "startTime": "14:00",
         "endTime": "16:00",

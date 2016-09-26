@@ -22,24 +22,7 @@
     "title": "DevFest Seattle Keynote",
     "description": "How I became a better dad using Firebase",
     "speakers": [5],
-    "tags": ["general"]
-  },
-  "1005": {
-    "id": 1005,
-    "title": "GDG DevFest Seattle 2016 Opening",
-    "description": "Official start of the conference. Greetings from the organizers, sponsors, and partners.",
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": ["general"]
-  },
-  "1006": {
-    "id": 1006,
-    "title": "After party & Networking",
-    "description": "The after party is a great place to have some fun and meet new people.<br/><br/><b>Location</b>: TBA<br/><br/>Don't forget to bring your badge.",
-    "track": {
-      "title": "TBA"
-    },
-    "tags": ["general"]
+    "tags": ["general","firebase"]
   },
   "1007": {
     "id": 1007,
@@ -91,7 +74,7 @@
     "speakers": [3],
     "language": "English",
     "complexity": "Beginner",
-    "tags": ["vr"]
+    "tags": ["VR"]
   },
   "105": {
     "id": 105,
@@ -109,18 +92,9 @@
     "speakers": [2],
     "language": "English",
     "complexity": "Intermediate",
-    "tags": ["android", "ux"]
+    "tags": ["android", "UX"]
   },
-    "107": {
-    "id": 107,
-    "title": "Android talks ",
-    "description": "Android talks" ,
-    "speakers": [3],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": ["android"]
-  },
-  "108": {
+   "108": {
     "id": 108,
     "title": "Code Labs (concurrent)",
     "description": "Code Labs (concurrent)",

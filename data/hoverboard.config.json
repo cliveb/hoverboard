@@ -130,6 +130,15 @@
   "tickets": {
     "url": "",
     "elements": [
+       {
+        "name": "student-ticket",
+        "price": 0,
+        "currency": "$",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": true
+      },
       {
         "name": "early-ticket",
         "price": 30,
@@ -138,6 +147,14 @@
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
         "soldOut": true
+      },
+      {
+        "name": "general-ticket",
+        "price": 38,
+        "currency": "$",
+        "starts": "general-ticket-starts",
+        "ends": "general-ticket-ends",
+        "soldOut": false
       }
     ]
   },
@@ -161,7 +178,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "DevFestSeattle",
+  "hashtag": "DevFestSEA",
   "social": [
     {
       "name": "twitter",
