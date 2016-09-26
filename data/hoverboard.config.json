@@ -130,15 +130,6 @@
   "tickets": {
     "url": "",
     "elements": [
-       {
-        "name": "student-ticket",
-        "price": 0,
-        "currency": "$",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": true
-      },
       {
         "name": "early-ticket",
         "price": 30,
