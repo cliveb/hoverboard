@@ -19,8 +19,8 @@
   },
   "1004": {
     "id": 1004,
-    "title": "DevFest Seattle Keynote",
-    "description": "How I became a better dad using Firebase",
+    "title": "DevFes Keynote: Game programming with Firebase and Javascript - and how I became a better Dad",
+    "description": "The Firebase Database lets you synchronize data between clients in real time, which is perfect for building multi-player games. In this talk I will describe a collaborative web-based sci-fi game I built using Firebase, what I learned along the way and how it made me a better dad.",
     "speakers": [5],
     "tags": ["general","firebase"]
   },
