@@ -14,9 +14,9 @@
     "title": "general-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://developers.google.com/",
-        "logoUrl": "../images/logos/gdgseattle.svg"
+        "name": "GDG Seattle",
+        "url": "https://developers.google.com/groups/chapter/104304419342230315027/",
+        "logoUrl": "../images/logos/gdg-seattle.svg"
       },
        {
         "name": "GDG[x]",
