@@ -16,40 +16,40 @@
     "timeslots": [
       {
         "startTime": "08:30",
-        "endTime": "09:00",
+        "endTime": "09:30",
         "sessions": [
           [1001]
         ]
       },
       {
-        "startTime": "09:00",
-        "endTime": "09:30",
+        "startTime": "09:30",
+        "endTime": "10:00",
         "sessions": [
           [1004]
         ]
       },
       {
-        "startTime": "09:35",
-        "endTime": "10:15",
+        "startTime": "10:00",
+        "endTime": "10:40",
         "sessions": [
           [101]
         ]
       },
       {
-        "startTime": "10:20",
-        "endTime": "11:00",
+        "startTime": "10:40",
+        "endTime": "11:20",
         "sessions": [
           [102]
         ]
       },
       {
-        "startTime": "11:05",
+        "startTime": "11:30",
         "endTime": "11:50",
         "sessions": [
           [103]
         ]
       },
-      {
+        {
         "startTime": "12:00",
         "endTime": "12:30",
         "sessions": [
@@ -79,7 +79,7 @@
       }, 
       {
         "startTime": "14:30",
-        "endTime": "16:00",
+        "endTime": "13:30",
         "sessions": [
           [108],
           [108],
@@ -87,8 +87,8 @@
         ]
       },
       {
-        "startTime": "16:30",
-        "endTime": "17:00",
+        "startTime": "13:30",
+        "endTime": "16:00",
         "sessions": [
           [1007]
         ]
