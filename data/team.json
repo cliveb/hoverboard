@@ -1,6 +1,6 @@
 [
   {
-    "title": "Core Team Program Committee",
+    "title": "Core Team Program Committee / TA Team",
     "members": [
       {
         "name": "Margaret Maynard-Reid",
@@ -67,6 +67,67 @@
           }
         ],
         "title": "Organizer and Operations"
+      }, 
+      {
+        "name": "Brandon Donnelson",
+        "photoUrl": "/images/people/brandon_donnelson.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "/plus.google.com/+BrandonDonnelson",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/branflake2267",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://wrightwayeconomy.com",
+            "name": "Blog"
+          }
+        ],
+        "title": "Organizer and Operations"
+      },
+       {
+        "name": "Gus Class",
+        "photoUrl": "/images/people/gus_class.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "/plus.google.com/+GusClass",
+            "name": "Google+"
+          },
+          {
+            "icon": "website",
+            "link": "https://github.com/gguuss",
+            "name": "Github"
+          }
+        ],
+        "title": "Googler and TA"
+      },
+        {
+        "name": "Tim Swast",
+        "photoUrl": "/images/people/tim_swast.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "/plus.google.com/+TimSwast",
+            "name": "Google+"
+          },
+           {
+            "icon": "twitter",
+            "link": "https://twitter.com/timswast",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "https://github.com/tswast",
+            "name": "Github"
+          }
+        ],
+        "title": "Googler and TA"
       }
     ]
   }
