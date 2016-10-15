@@ -52,7 +52,7 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "/plus.google.com/+YenchiLin",
+            "link": "https://plus.google.com/+YenchiLin",
             "name": "Google+"
           },
           {
@@ -74,7 +74,7 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "/plus.google.com/+BrandonDonnelson",
+            "link": "https://plus.google.com/+BrandonDonnelson",
             "name": "Google+"
           },
           {
@@ -96,7 +96,7 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "/plus.google.com/+GusClass",
+            "link": "https://plus.google.com/+GusClass",
             "name": "Google+"
           },
           {
@@ -113,7 +113,7 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "/plus.google.com/+TimSwast",
+            "link": "https://plus.google.com/+TimSwast",
             "name": "Google+"
           },
            {
@@ -128,6 +128,35 @@
           }
         ],
         "title": "Googler and Coach"
+      },
+         {
+        "name": "Hector Torres",
+        "photoUrl": "/images/people/hector_torres.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/101815907012201171653",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/htorrex",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Android Coach"
+      },
+        {
+        "name": "Michael Erdely",
+        "photoUrl": "/images/people/michael1.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/mjerdely",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Android Coach"
       }
     ]
   }
