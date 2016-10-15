@@ -4,14 +4,14 @@
     "title": "Check-in & morning Coffee",
     "description": "Get your badge, coffee, and then enjoy talking with great people",
     "tags": ["general"],
-    "image": "images/backgrounds/morning.jpg"
+    "image": "images/backgrounds/gray_bkgd.jpg"
   },
   "1002": {
     "id": 1002,
     "title": "Lunch",
     "description": "Lunch break",
     "tags": ["general"],
-    "image": "images/backgrounds/lunch.jpg"
+    "image": "images/backgrounds/gray_bkgd.jpg"
   },
   "1003": {
     "id": 1003,
@@ -32,7 +32,7 @@
     "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
     "complexity": "Beginner",
     "tags": ["general"],
-    "image": "images/backgrounds/closing.jpg"
+    "image": "images/backgrounds/gray_bkgd.jpg"
   },
   "101": {
     "id": 101,
